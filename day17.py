@@ -62,5 +62,5 @@ elif add_radio == "Statistika":
     st.image("https://z-table.com/uploads/2/1/7/9/21795380/9340559_orig.png?ezimgfmt=rs%3Adevice%2Frscb1-10", caption='Z-table (manfiy)')
 
     st.write("## Z-table")
-    st.image("/Users/macbookair/Desktop/IMAGE 2024-07-14 11:08:42.jpg", caption='Z-table')
+    st.image("https://z-table.com/uploads/2/1/7/9/21795380/8573955.png?ezimgfmt=rs:759x793/rscb1/ng:webp/ngcb1", caption='Z-table')
     
