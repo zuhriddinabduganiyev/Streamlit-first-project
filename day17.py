@@ -57,7 +57,7 @@ if add_radio == "DataFrame":
 elif add_radio == "Statistika":
     st.title("Statistikaga aloqador rasmlar:")
     st.write("## Z-table")
-    st.image("/Users/macbookair/Desktop/IMAGE 2024-07-14 11:08:42.jpg", caption='Z-table')
+    st.image("https://z-table.com/uploads/2/1/7/9/21795380/1426878678.png?ezimgfmt=rs:279x130/rscb1/ng:webp/ngcb1", caption='Z-table')
     st.write("## Z-table (manfiy qiymatlarga)")
     st.image("https://z-table.com/uploads/2/1/7/9/21795380/9340559_orig.png?ezimgfmt=rs%3Adevice%2Frscb1-10", caption='Z-table (manfiy)')
 
